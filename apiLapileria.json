@@ -1,0 +1,123 @@
+[
+	{
+		"cantidad": 100,
+		"descripcion": "Toda la comodidad y suavidad de un Sarasa Clip, pero con bellos tonos vintage.",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/14583469/resize/540/540?1656473515",
+		"id_producto": 1,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Sets Zebra Sarasa Vintage",
+		"precio": 7490,
+		"sku": "0001"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Pilot nos trae estos nuevos colores de su linea Juice Up, en tonalidades vintage",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/26461123/resize/540/540?1660866194",
+		"id_producto": 2,
+		"marca": "PILOT",
+		"nom_proveedor": "PILOT",
+		"nombre_producto": "Set Pilot Juice Up Glossy Colors",
+		"precio": 11990,
+		"sku": "0002"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Lo mejor de los lápices Zebra Sarasa clip juntos en un pack de 10 colores a un muy buen precio",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/15198378/resize/540/540?1656473456",
+		"id_producto": 3,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Set Zebra Sarasa Clip 0.5",
+		"precio": 14490,
+		"sku": "0003"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Zebra Mildliner es conocido por tener una paleta de colores muy variables (25 tonos)",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/14583480/resize/540/540?1656473593",
+		"id_producto": 4,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Sets Zebra Mildliner",
+		"precio": 7500,
+		"sku": "0004"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Definitivamente uno de los lápices gel que debes probar y enamorarte de su suavidad.",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/26461102/resize/540/540?1660866148",
+		"id_producto": 5,
+		"marca": "MUJI",
+		"nom_proveedor": "MUJI",
+		"nombre_producto": "Set Muji Tapa 0.5 mm",
+		"precio": 8500,
+		"sku": "0005"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Sarasa R, un lápiz punta 0.4 mm, con sistema clip, tinta gel y su principal característica",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/16003909/resize/540/540?1657724069",
+		"id_producto": 6,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Set 7 Colores Zebra Sarasa R",
+		"precio": 10990,
+		"sku": "0006"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Lo mejor de los lápices Zebra Sarasa clip, juntos en un pack de 8 colores en tonos pastel",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/14583109/resize/540/540?1656473451",
+		"id_producto": 7,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Set Sarasa Clip 0.5 Pastel",
+		"precio": 11990,
+		"sku": "0007"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": " lápiz de tinta gel y una punta extra fina de 0.3 mm que permite una escritura clara y hermosa, con una sensación de escritura suave incluso al ser un lápiz con una punta fina.",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/21450207/resize/540/540?1651341043",
+		"id_producto": 8,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Sets Zebra Sarasa Nano 0.3",
+		"precio": 11490,
+		"sku": "0008"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Disney Store en conjunto con Zebra nos traen este hermoso set de Mildliners inspirado en Minnie y Mickey",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/26461016/resize/540/540?1660865929",
+		"id_producto": 9,
+		"marca": "ZEBRA",
+		"nom_proveedor": "Disney",
+		"nombre_producto": "Set Zebra Mildliner Minnie & Mickey",
+		"precio": 9592,
+		"sku": "0009"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "El Set Zebra Deco Shine cuenta con 10 lápices, de tinta gel y en colores metalizados.",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/25480582/resize/540/540?1656703064",
+		"id_producto": 10,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Set Zebra Deco Shine",
+		"precio": 14490,
+		"sku": "0010"
+	},
+	{
+		"cantidad": 100,
+		"descripcion": "Rotuladores retráctiles ClickArt están hechos con una tinta innovadora que no se seca y evita las manchas molestas",
+		"foto": "https://cdnx.jumpseller.com/blanca-papeleria/image/15198437/resize/540/540?1656182416",
+		"id_producto": 11,
+		"marca": "ZEBRA",
+		"nom_proveedor": "ZEBRA",
+		"nombre_producto": "Zebra Click Art Dark Tone",
+		"precio": 15490,
+		"sku": "0011"
+	}
+]
